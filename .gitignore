@@ -1,0 +1,17 @@
+# Eclipse project #
+###################
+/bin/
+/.settings/
+.classpath
+.project
+
+# Compiled files  #
+###################
+*.class
+*.jar
+
+# Other files     #
+###################
+.Trashes
+ehthumbs.db
+Thumbs.db
