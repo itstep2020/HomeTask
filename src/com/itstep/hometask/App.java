@@ -4,6 +4,7 @@ package com.itstep.hometask;
  * Main class to execute student's classes.
  * Each class must implement Student interface.
  * Will we go?
+ * 
  * @author PP-12JavaV2
  */
 public class App {
