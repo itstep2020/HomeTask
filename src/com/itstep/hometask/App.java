@@ -10,9 +10,11 @@ package com.itstep.hometask;
 public class App {
 	
 	static final Timchenko tim = new Timchenko();
-	
+	static final Student Putrya_D_S = new SomeClass();
+        
 	public static void main(String[] args) {
 		System.out.println("Welcome fantastic team project!");
 		tim.say();
+                Putrya_D_S.say();
 	}
 }
