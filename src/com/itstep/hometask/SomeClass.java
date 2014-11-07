@@ -12,7 +12,7 @@ package com.itstep.hometask;
  */
 public class SomeClass implements Student{
     
-private String txt = "Putrya Dmitriy";
+private String txt = "Hi all";
     
     @Override
     public void say() {
