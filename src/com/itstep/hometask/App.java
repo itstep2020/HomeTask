@@ -1,5 +1,4 @@
 package com.itstep.hometask;
-import com.itstep.hometask.dyack.Sound;
 
 /**
  * Main class to execute student's classes.
@@ -19,7 +18,7 @@ public class App {
 		tim.say();
                 Putrya_D_S.say();
 
-        System.err.println(dyack + " >> Play >>>"); 
-        new Sound("src/resources/Silent_Hill.wav", 0, 2);// (path, sleep, replay)
+        // System.err.println(dyack + " >> Play >>>"); 
+        // new Sound("src/resources/Silent_Hill.wav", 0, 2);// (path, sleep, replay)
 	}
 }
