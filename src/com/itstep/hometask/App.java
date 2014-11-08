@@ -19,7 +19,7 @@ public class App {
 		tim.say();
                 Putrya_D_S.say();
 
-        System.err.println(dyack + " >> Play >>>");
+        System.err.println(dyack + " >> Play >>>"); 
         new Sound("src/resources/Silent_Hill.wav", 0, 2);// (path, sleep, replay)
 	}
 }
