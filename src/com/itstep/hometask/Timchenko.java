@@ -9,4 +9,8 @@ public class Timchenko implements Student {
 		System.out.println(message);		
 	}
 	
+	public void say(String text) {
+		System.out.println(text);		
+	}
+	
 }
