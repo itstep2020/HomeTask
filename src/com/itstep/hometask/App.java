@@ -22,5 +22,10 @@ public class App {
 
             System.err.println(dyack + " >> Play >>>"); 
             new Sound("src/resources/Silent_Hill.wav", 0, 2);// (path, sleep, replay)
+            
+            new Medvedev().func();
 	}
+        
+        
+        
 }
