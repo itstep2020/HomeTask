@@ -1,5 +1,7 @@
 package com.itstep.hometask;
 
+import com.itstep.hometask.dyack.Sound;
+
 /**
  * Main class to execute student's classes.
  * Each class must implement Student interface.
